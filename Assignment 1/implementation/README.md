@@ -1,4 +1,4 @@
-# Registration Timeline UI – Assignment 1 (CIS 4120)
+# Registration Timeline UI
 
 ## Overview
 This project implements a static high-fidelity UI mockup of a registration timeline using **HTML and CSS**. The goal was to closely reproduce the provided design reference with attention to layout, spacing, typography, and visual hierarchy.
