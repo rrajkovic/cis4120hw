@@ -34,13 +34,6 @@ I fully understand every line of code in this project and can explain the purpos
 
 ---
 
-## Notes
-This project is intentionally static and does not include JavaScript, as the focus of the assignment is visual layout and structure rather than functionality.
-
-Minor visual differences (e.g., color rendering or font antialiasing) may occur due to browser and device differences.
-
----
-
 ## Files
 - `index.html` — HTML structure for the registration timeline
 - `styles.css` — Styling and layout rules
